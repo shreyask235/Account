@@ -1,4 +1,6 @@
-﻿namespace Capstone_assignment;
+// simulated change from teammate on GitHub
+
+namespace Capstone_assignment;
 
 
 
