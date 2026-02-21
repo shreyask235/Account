@@ -13,8 +13,9 @@ class Account
 
     public void show()
     {
-        Console.WriteLine("Account Details:")
+        Console.WriteLine("Account Details:");
         Console.WriteLine($"User: {accountUser} Balance: {amount}");
+        Console.WriteLine("---------------------------------------");
     }
 
 
