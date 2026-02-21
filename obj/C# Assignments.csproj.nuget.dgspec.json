@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\c#\\C# Assignments.csproj": {}
+    "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\AccountClass\\C# Assignments.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\c#\\C# Assignments.csproj": {
+    "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\AccountClass\\C# Assignments.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\c#\\C# Assignments.csproj",
+        "projectUniqueName": "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\AccountClass\\C# Assignments.csproj",
         "projectName": "C# Assignments",
-        "projectPath": "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\c#\\C# Assignments.csproj",
+        "projectPath": "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\AccountClass\\C# Assignments.csproj",
         "packagesPath": "C:\\Users\\Muddanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\c#\\obj\\",
+        "outputPath": "C:\\Users\\Muddanna\\OneDrive\\Desktop\\CS Capstone\\AccountClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Muddanna\\AppData\\Roaming\\NuGet\\NuGet.Config"

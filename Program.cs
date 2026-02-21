@@ -9,11 +9,9 @@ class Program
 {
     static void Main(string[] args)
     {
+        // two different instances of account class have been created
         Account account1 = new Account(100, "Bob");
         Account account2 = new Account(100, "Mary");
-
-
-
 
         account1.show();
         if (account1.withdraw(150))
