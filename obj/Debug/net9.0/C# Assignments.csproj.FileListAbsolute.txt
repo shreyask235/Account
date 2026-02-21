@@ -1,0 +1,14 @@
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\bin\Debug\net9.0\C# Assignments.exe
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\bin\Debug\net9.0\C# Assignments.deps.json
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\bin\Debug\net9.0\C# Assignments.runtimeconfig.json
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\bin\Debug\net9.0\C# Assignments.dll
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\bin\Debug\net9.0\C# Assignments.pdb
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.AssemblyInfoInputs.cache
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.AssemblyInfo.cs
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.csproj.CoreCompileInputs.cache
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.dll
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\refint\C# Assignments.dll
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.pdb
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\C# Assignments.genruntimeconfig.cache
+C:\Users\Muddanna\OneDrive\Desktop\C# Assignments\obj\Debug\net9.0\ref\C# Assignments.dll
